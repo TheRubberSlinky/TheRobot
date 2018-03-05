@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNewBot", "TheNewBot\TheNewBot.csproj", "{DD263B35-1FEA-4B8C-AC47-B3BC9B778DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSiteSafer", "TestingSiteSafer\TestingSiteSafer.csproj", "{F1309B29-B933-4E36-952F-53227A70CA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD263B35-1FEA-4B8C-AC47-B3BC9B778DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD263B35-1FEA-4B8C-AC47-B3BC9B778DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD263B35-1FEA-4B8C-AC47-B3BC9B778DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD263B35-1FEA-4B8C-AC47-B3BC9B778DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1309B29-B933-4E36-952F-53227A70CA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1309B29-B933-4E36-952F-53227A70CA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1309B29-B933-4E36-952F-53227A70CA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1309B29-B933-4E36-952F-53227A70CA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C905EA-F27F-4283-B3F6-FCBD16A3D598}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://evertreedevops.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TheNewBot\\TheNewBot.csproj
+		SccProjectName1 = TheNewBot
+		SccLocalPath1 = TheNewBot
+		SccProjectUniqueName2 = TestingSiteSafer\\TestingSiteSafer.csproj
+		SccProjectName2 = TestingSiteSafer
+		SccLocalPath2 = TestingSiteSafer
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

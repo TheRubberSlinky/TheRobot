@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<people>
+  <person name ="Tristan">
+    <Username>ValLegion</Username>
+    <xp>512</xp>
+    <level>8</level>
+    <quote>Much quote, very wow</quote>
+    <previousMood>Contempt</previousMood>
+  </person>
+</people>

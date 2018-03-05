@@ -1,0 +1,96 @@
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\TheNewBot.exe.config
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\TheNewBot.exe
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\TheNewBot.pdb
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Commands.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Core.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rest.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Collections.Immutable.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Interactive.Async.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Commands.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Core.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rest.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Collections.Immutable.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Interactive.Async.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\obj\Debug\TheNewBot.exe
+C:\Dev\Discord\TheNewBot\TheNewBot\obj\Debug\TheNewBot.pdb
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Addons.Interactive.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.AppContext.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Console.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Globalization.Calendars.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.IO.FileSystem.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Net.Sockets.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\obj\Debug\TheNewBot.csprojResolveAssemblyReference.cache
+C:\Dev\Discord\TheNewBot\TheNewBot\obj\Debug\TheNewBot.csproj.CoreCompileInputs.cache
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Quartz.dll
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Quartz.xml
+C:\Dev\Discord\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Audio.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\TheNewBot.exe.config
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\TheNewBot.exe
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\TheNewBot.pdb
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Addons.Interactive.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Audio.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Commands.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Core.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rest.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rpc.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Webhook.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.WebSocket.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Newtonsoft.Json.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Quartz.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.AppContext.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Collections.Immutable.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Console.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Globalization.Calendars.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Interactive.Async.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.IO.FileSystem.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Net.Sockets.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Commands.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Core.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rest.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Rpc.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.Webhook.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Discord.Net.WebSocket.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Newtonsoft.Json.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\Quartz.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Collections.Immutable.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Additional Projects\TheNewBot\TheNewBot\bin\Debug\System.Interactive.Async.xml
+D:\Additional Projects\TheNewBot\TheNewBot\obj\Debug\TheNewBot.csprojResolveAssemblyReference.cache
+D:\Additional Projects\TheNewBot\TheNewBot\obj\Debug\TheNewBot.csproj.CoreCompileInputs.cache
+D:\Additional Projects\TheNewBot\TheNewBot\obj\Debug\TheNewBot.exe
+D:\Additional Projects\TheNewBot\TheNewBot\obj\Debug\TheNewBot.pdb
